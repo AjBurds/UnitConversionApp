@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnitConversionApp</string>
+    <string-array name="unit_types">
+        <item>Temperature</item>
+        <item>Length</item>
+        <item>Weight</item>
+    </string-array>
+</resources>
